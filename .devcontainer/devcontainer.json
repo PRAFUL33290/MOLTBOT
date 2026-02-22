@@ -1,0 +1,4 @@
+{
+  "name": "MOLTBOT",
+  "postCreateCommand": "curl -fsSL https://openclaw.ai/install.sh | bash && export PATH=\"/usr/local/share/nvm/versions/node/v24.11.1/bin:$PATH\""
+}
